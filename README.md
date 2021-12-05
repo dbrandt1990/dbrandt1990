@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbrandt1990" alt="dbrandt1990" /></a> </p>
-
 - 📝 I regularly write articles on [https://dvbrandt90.medium.com/](https://dvbrandt90.medium.com/)
 
 - 💬 Ask me about **React and Ruby on Rails**
